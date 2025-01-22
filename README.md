@@ -94,15 +94,23 @@
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <!-- left-card -->
-      <td align="left" style="border: none;">
-        <img alt="zetsura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zetsura&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&include_all_commits=false&count_private=false" height="200" width="400" />
+      <!-- left-card: GitHub Stats -->
+      <td align="left">
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=zetsura&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&disable_animations=true"
+          height="200"
+        />
       </td>
-      <!-- right-card -->
-      <td align="right" style="border: none;">
-        <img src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&combine_all_yearly_contributions=true" height="200" width="400" />
+      <!-- right-card: GitHub Contributor Stats -->
+      <td align="right">
+        <img
+          alt="GitHub Contributor Stats"
+          src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&combine_all_yearly_contributions=true&show_icons=true&disable_animations=true"
+          height="200"
+        />
       </td>
     </tr>
   </table>
