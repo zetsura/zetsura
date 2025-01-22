@@ -94,7 +94,16 @@
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=true">
-    <img alt="zetsura's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zetsura?cardType=github&theme=gotham&preferLogin=true" width="100%" />
-  </a>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- left-card -->
+      <td align="left" style="border: none;">
+        <img alt="zetsura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zetsura&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false" height="200" />
+      </td>
+      <!-- right-card -->
+      <td align="right" style="border: none;">
+        <img src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200" />
+      </td>
+    </tr>
+  </table>
 </div>
