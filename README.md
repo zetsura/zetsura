@@ -100,7 +100,7 @@
       <td align="left">
         <img
           alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=zetsura&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false"
+          src="https://github-readme-stats.vercel.app/api?username=zetsura&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false"
           height="200"
         />
       </td>
