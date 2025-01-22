@@ -96,19 +96,19 @@
 <div align="center">
   <table>
     <tr>
-      <!-- left-card: GitHub Stats -->
+      <!-- Левая карточка: GitHub Stats -->
       <td align="left">
         <img
           alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=zetsura&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&disable_animations=true"
+          src="https://github-readme-stats.vercel.app/api?username=zetsura&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false"
           height="200"
         />
       </td>
-      <!-- right-card: GitHub Contributor Stats -->
+      <!-- Правая карточка: GitHub Contributor Stats -->
       <td align="right">
         <img
           alt="GitHub Contributor Stats"
-          src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&combine_all_yearly_contributions=true&show_icons=true&disable_animations=true"
+          src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&theme=highcontrast&combine_all_yearly_contributions=true"
           height="200"
         />
       </td>
