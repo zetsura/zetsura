@@ -102,7 +102,7 @@
       </td>
       <!-- right-card -->
       <td align="right" style="border: none;">
-        <img src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&combine_all_yearly_contributions=true" height="200" width="400" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&combine_all_yearly_contributions=true" height="200" width="400" />
       </td>
     </tr>
   </table>
