@@ -87,13 +87,14 @@
   </p>
 </div>
 
+<div align="center">
+	<img width="800" src="gif/github-snake.svg" alt="snake"/>
+</div>
+
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <div>
-    <img width="800" src="gif/github-snake.svg" alt="snake"/>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=true">
-      <img alt="zetsura's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zetsura?cardType=github&theme=gotham&preferLogin=true" />
-    </a>
-  </div>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=true">
+    <img alt="zetsura's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zetsura?cardType=github&theme=gotham&preferLogin=true" width="100%" />
+  </a>
 </div>
