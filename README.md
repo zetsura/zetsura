@@ -98,11 +98,11 @@
     <tr>
       <!-- left-card -->
       <td align="left" style="border: none;">
-        <img alt="zetsura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zetsura&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false" height="200" />
+        <img alt="zetsura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zetsura&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&hide_border=true&include_all_commits=false&count_private=false" height="200" width="400" />
       </td>
       <!-- right-card -->
       <td align="right" style="border: none;">
-        <img src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=zetsura&limit=5&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=transparent&combine_all_yearly_contributions=true" height="200" width="400" />
       </td>
     </tr>
   </table>
