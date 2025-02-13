@@ -7,7 +7,6 @@
 <h2>📝 About Me</h2>
 <ul>
   <li>🌍 I'm based in: Astana KZ.</li>
-  <li>🎓 Studied in the specialty <strong>Information systems</strong> (2018–2022).</li>
   <li>📖 Currently taking a course on <strong>.NET development</strong> on the platform <strong>EPAM Learning</strong>.</li>
   <li>💻 I actively study technologies on <strong>Microsoft Learn</strong> to deepen my professional knowledge.</li>
   <li>📫 You can contact me at <strong>westh4imer@gmail.com</strong></li>
